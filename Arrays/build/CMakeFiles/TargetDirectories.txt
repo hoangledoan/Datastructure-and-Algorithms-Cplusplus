@@ -1,0 +1,3 @@
+/mnt/d/Programming/Datastructure-and-Algorithms-Cplusplus/Arrays/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Programming/Datastructure-and-Algorithms-Cplusplus/Arrays/build/CMakeFiles/edit_cache.dir
+/mnt/d/Programming/Datastructure-and-Algorithms-Cplusplus/Arrays/build/CMakeFiles/Game.dir
